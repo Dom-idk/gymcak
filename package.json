@@ -1,0 +1,22 @@
+{
+  "name": "gymcak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dom-idk/gymcak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dom-idk/gymcak/issues"
+  },
+  "homepage": "https://github.com/Dom-idk/gymcak#readme",
+  "dependencies": {
+    "is-not-odd": "^1.0.4"
+  }
+}
